@@ -6,8 +6,8 @@ This is a React Application created to showcase my education, skills, projects a
 # How to use
 
 1. Clone the Repository
-2. Enter the following in the terminal:\n
-     cd portfolio\n
-     npm install // installs all the dependencies mentioned in the package.json\n
+2. Enter the following in the terminal:<br>
+     cd portfolio<br>
+     npm install // installs all the dependencies mentioned in the package.json<br>
      npm run dev // runs the vite localhost
 3. Enjoy
